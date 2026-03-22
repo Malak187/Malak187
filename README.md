@@ -33,14 +33,3 @@
   <img width="12" />
 
 </div>
-
-###
-
-
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/malak187/malak187/output/snake.svg" alt="Snake animation" />
-
-###
